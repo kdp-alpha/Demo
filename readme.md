@@ -21,6 +21,7 @@ bstdllreturnbst
 
 
 ----------------------------------------------------------------------------------------------------------------
+```java
 public class Solution {
     /**
      * @param root: root of a tree
@@ -75,3 +76,4 @@ public class Solution {
         return head;
     }
 }
+```
