@@ -17,7 +17,7 @@ The figure below shows the transformed BST. The solid line indicates the success
 
 bstdllreturnbst
 
-![alt text](![alt text](https://assets.leetcode.com/uploads/2018/10/12/bstdlloriginalbst.png))
+(![alt text](https://assets.leetcode.com/uploads/2018/10/12/bstdlloriginalbst.png))
 
 
 ![image](https://user-images.githubusercontent.com/85121133/185751555-d06ac53e-032a-480b-a76b-96fefdf1d65c.png)
